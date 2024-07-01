@@ -4,13 +4,19 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
 
-/*
- * Desafio Surpresa do DOV - Nível 1 Um programa que pode ser usado para
- * cadastrar usuários Opção para digitar S para sair, C para cadastrar e L para
- * listar as pessoas cadastradas Solicitar: Nome completo Gênero Data de
- * nascimento no formato dd/mm/aaaa Nome da rua Número da casa Pode ser feita em
- * Qualquer Língua
- */
+/*Desafio Surpresa do DOV - Nível 1
+
+Desenvolva um programa para cadastro de usuários com as seguintes funcionalidades: 
+opção para sair digitando 'S', 
+para cadastrar digitando 'C' e para listar os usuários cadastrados digitando 'L'. 
+O programa deve solicitar as seguintes informações:
+
+Nome completo
+Gênero
+Data de nascimento (no formato dd/mm/aaaa)
+Nome da rua
+Número da casa
+Este programa deve ser implementado em qualquer linguagem de programação.*/
 
 public class DesafioNv1Dov {
 
